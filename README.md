@@ -1,6 +1,6 @@
 # Spring Social Login
 
-In this project we have a [simple spring boot application](src/main/java/com/example/GluuApplication) that implements a very simple Srping web application with OAuth2 SSO. The application home page will show secure content when the user is authenticated and otherwise will show a link for the user to login with Gluu.
+In this project we have a [simple spring boot application](https://projects.spring.io/spring-boot/) that implements a very simple Srping web application with OAuth2 SSO. The application home page will show secure content when the user is authenticated and otherwise will show a link for the user to login with Gluu.
 
 ## Client code
 
